@@ -43,3 +43,20 @@ For a detailed description of the dataset construction, motivation, and evaluati
 please refer to the paper:
 
 **Learn to Understand: Knowledge Exemplification via Multi-Agent Cooperation for Science Question Answering**
+
+---
+
+## 📌 Citation
+
+If you find this repository or the **NovSciQA dataset** useful for your research, please consider citing our paper:
+
+```bibtex
+@ARTICLE{11365952,
+  author={Bao, Meikai and Zhang, Kai and Liu, Xukai and Liu, Qi and Zhao, Hongke and Chen, Enhong},
+  journal={IEEE Transactions on Knowledge and Data Engineering}, 
+  title={Learn to Understand: Knowledge Exemplification via Multi-Agent Cooperation for Science Question Answering}, 
+  year={2026},
+  volume={},
+  number={},
+  pages={1-13},
+  doi={10.1109/TKDE.2026.3658068}}
